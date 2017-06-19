@@ -1,11 +1,13 @@
 # hacintosh_ei_capitan_thinkpadt430
-参考指南:
+> 参考指南:
+>
+> https://www.tonymacx86.com/threads/guide-lenovo-t430-el-capitan.175935/
 
-https://www.tonymacx86.com/threads/guide-lenovo-t430-el-capitan.175935/
 
 
 
-不工作:
+
+**不工作:**
 
 1.声卡
 
